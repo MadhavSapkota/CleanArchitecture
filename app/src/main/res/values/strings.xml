@@ -1,0 +1,22 @@
+<resources>
+	<string name="app_name">Event</string>
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="event_page_name">Events</string>
+	<string name="event_upcoming">Upcoming Events</string>
+	<string name="featured_event">Featured Events</string>
+	<string name="new_event">New Events</string>
+	<string name="artist">Artists</string>
+	<string name="explorer_venues">Explore Venues</string>
+	
+	
+	<string name="browse_by_category">Browse By Category</string>
+	<string name="view_all">View All</string>
+	<string name="cash_back_offers">Cashback &amp; Offers</string>
+	<string name="cash_back_offers_subtitle">View your points,discount card and other offers</string>
+	
+	<string name="cash_back_support">24*7 Help and Support</string>
+	<string name="cash_back_support_subtitle">Get quick resolution on queries related to eSewa</string>
+
+
+</resources>

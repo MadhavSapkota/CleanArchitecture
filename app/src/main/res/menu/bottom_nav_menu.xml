@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<item
+		android:id="@+id/navigation_home"
+		android:icon="@drawable/baseline_event_24"
+		android:title="@string/event_page_name" />
+	
+	<item
+		android:id="@+id/navigation_bill"
+		android:icon="@drawable/flame"
+		android:title="" />
+
+	<item
+		android:id="@+id/navigation_extra"
+		android:icon="@drawable/baseline_card_giftcard_24"
+		android:title="" />
+	
+</menu>
+
+
